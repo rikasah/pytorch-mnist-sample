@@ -1,2 +1,7 @@
-# pytorch-mnist-sample
-This is pytorch sample to train, eval, and testing CNN based model for MNIST Digit dataset
+# Pytorch-MNIST Sample Notebook
+
+## File Structure
+pytorch-mnist.ipnyb is jupyter notebook for running sample code to train and eval MNIST Digit Recognition Task
+
+## Reference
+* https://github.com/jiuntian/pytorch-mnist-example
