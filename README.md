@@ -5,3 +5,5 @@ pytorch-mnist.ipnyb is jupyter notebook for running sample code to train and eva
 
 ## Reference
 * https://github.com/jiuntian/pytorch-mnist-example
+
+ini ada modify parameters pada learning rate dan momentum untuk mendapatkan accuracy lebih dari 90
